@@ -15,7 +15,8 @@ ohmyzsh
 tmux
 - install with homebrew
 
-neovim
+neovim (version 7.0)
+- .config/nvim
 - install with homebrew
 - this repo config
 
