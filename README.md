@@ -19,3 +19,6 @@ neovim
 - install with homebrew
 - this repo config
 
+lazydocker: https://github.com/jesseduffield/lazydocker
+lazygit: https://github.com/jesseduffield/lazygit
+
