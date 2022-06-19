@@ -1,6 +1,7 @@
 inspired from https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ
 
 Mac setup
+System preferences > accessibility > display > reduce motion
 
 homebrew
 vlc
