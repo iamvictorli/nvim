@@ -7,7 +7,7 @@ homebrew
 vlc
 
 iterm:
-- profiles > working directory > reuse previous session's directory
+- profiles > general > working directory > reuse previous session's directory
 - profiles > colors > color presets... > color preset pastel
 
 ohmyzsh
