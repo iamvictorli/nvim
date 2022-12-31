@@ -47,4 +47,5 @@ exa (ls replacement): https://github.com/ogham/exa
 zoxide (smarter cd): https://github.com/ajeetdsouza/zoxide
 
 trash-cli (safeguard rm): https://github.com/sindresorhus/trash-cli
+- `npm install --global trash-cli@4.0.0`. version 5 sometimes runs into node issues, stick with version 4
 - Add `alias rm=trash` to .zshrc
