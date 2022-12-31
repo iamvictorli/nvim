@@ -35,6 +35,9 @@ neovim (version 7.0)
 - this repo config
 
 lazydocker: https://github.com/jesseduffield/lazydocker
+
 lazygit: https://github.com/jesseduffield/lazygit
+
 exa (ls replacement): https://github.com/ogham/exa
+
 zoxide (smarter cd): https://github.com/ajeetdsouza/zoxide
