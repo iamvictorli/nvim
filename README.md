@@ -35,9 +35,16 @@ neovim (version 7.0)
 - this repo config
 
 lazydocker: https://github.com/jesseduffield/lazydocker
+- Add `alias lzd='lazydocker'` to .zshrc
 
 lazygit: https://github.com/jesseduffield/lazygit
+- Add `alias lg='lazygit'` to .zshrc
 
 exa (ls replacement): https://github.com/ogham/exa
+- Add `alias ll="exa -l -g --icons --git"` to .zshrc
+- Add `alias llt="exa -1 --icons --tree --git-ignore"` to .zshrc
 
 zoxide (smarter cd): https://github.com/ajeetdsouza/zoxide
+
+trash-cli (safeguard rm): https://github.com/sindresorhus/trash-cli
+- Add `alias rm=trash` to .zshrc
