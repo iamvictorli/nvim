@@ -19,8 +19,9 @@ Terminal
 ohmyzsh
 - https://github.com/romkatv/powerlevel10k#oh-my-zsh (use minimal theme similar to https://github.com/sindresorhus/pure). May switch to https://starship.rs/
 - zstyle ':omz:update' mode disabled
-- plugins=(git tmux nvm aliases npm yarn zsh-autosuggestions)
+- plugins=(git tmux nvm aliases npm yarn zsh-autosuggestions zsh-syntax-highlighting)
 - https://github.com/zsh-users/zsh-autosuggestions
+- https://github.com/zsh-users/zsh-syntax-highlighting
 - nvm installation: https://github.com/nvm-sh/nvm
 - zstyle ':omz:plugins:nvm' lazy yes
 - export EDITOR='vim
@@ -32,6 +33,7 @@ tmux
 neovim (version 7.0)
 - .config/nvim
 - install with homebrew
+- OR from releases if homebrew doesnt work
 - this repo config
 
 lazydocker: https://github.com/jesseduffield/lazydocker
